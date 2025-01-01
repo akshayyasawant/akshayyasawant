@@ -7,20 +7,19 @@
 </p>
 
  <!-- About section -->
-🌟 About Me
-👨‍💻 A 3rd-year undergraduate passionate about MERN Stack Development and crafting dynamic, user-focused web applications.
-🛠 Skilled in React.js, Node.js, Express.js, MongoDB, and other frontend technologies.
-🧠 Curious about combining AI/ML with React for cutting-edge projects.
+🌟 About Me<br>
+👨‍💻 A 3rd-year undergraduate passionate about MERN Stack Development and crafting dynamic, user-focused web applications.<br>
+🛠 Skilled in React.js, Node.js, Express.js, MongoDB, and other frontend technologies.<br>
+🧠 Curious about combining AI/ML with React for cutting-edge projects.<br>
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lauragift21/lauragift21/refs/heads/master/code.gif" width="500" height="320" />
 
 - 😄 My Pronouns: She/Her   
 
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
-
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
+- 💬 Ask me about: Building Career In Tech, Web Development
+- 📫 How to reach me: [akshayya.sawant@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
