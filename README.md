@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋, I'm Akshayya Sawant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Akshayya Sawant</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayyasawant&label=Profile%20views&color=0e75b6&style=flat" alt="akshayyasawant" /> </p>
+<!-- Profile Views -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayyasawant" alt="akshayyasawant" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+ <!-- About section -->
+🌟 About Me
+👨‍💻 A 3rd-year undergraduate passionate about MERN Stack Development and crafting dynamic, user-focused web applications.
+🛠 Skilled in React.js, Node.js, Express.js, MongoDB, and other frontend technologies.
+🧠 Curious about combining AI/ML with React for cutting-edge projects.
+
+
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
+- 😄 My Pronouns: She/Her   
+
+- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
+
+- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
