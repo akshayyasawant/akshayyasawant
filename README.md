@@ -36,4 +36,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayyasawant&" alt="akshayyasawant" /></p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+<hr>
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>
