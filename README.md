@@ -8,7 +8,7 @@
 
  <!-- About section -->
 🌟 About Me<br>
-👨‍💻 A 3rd-year undergraduate passionate about MERN Stack Development and crafting dynamic, user-focused web applications.<br>
+👨‍💻 A 3rd-year undergraduate,passionate about MERN Stack Development and crafting dynamic, user-focused web applications.<br>
 🛠 Skilled in React.js, Node.js, Express.js, MongoDB, and other frontend technologies.<br>
 📸 When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.<br>
 
