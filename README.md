@@ -34,7 +34,7 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayyasawant&show_icons=true&locale=en" alt="akshayyasawant" /></p>--!>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayyasawant&" alt="akshayyasawant" /></p>
+<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayyasawant&" alt="akshayyasawant" /></p>---!>
 
 <hr>
 <p align="center">
