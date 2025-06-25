@@ -3,12 +3,12 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>-->
 
  <!-- About section -->
 🌟 About Me<br>
-👨‍💻 A 3rd-year undergraduate,passionate about MERN Stack Development and crafting dynamic, user-focused web applications.<br>
+👨‍💻 A final year undergraduate,passionate about MERN Stack Development and crafting dynamic, user-focused web applications.<br>
 🛠 Skilled in React.js, Node.js, Express.js, MongoDB, and other frontend technologies.<br>
 📸 When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.<br>
 
